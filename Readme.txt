@@ -1,0 +1,1 @@
+This POS System developed by Tineth Pathirage.
