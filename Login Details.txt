@@ -1,0 +1,9 @@
+Admin Login 
+----------------------------
+E-Mail : admin@gmail.com
+Password : admin
+
+Cashier Login
+----------------------------
+E-Mail : cashier@email.com
+Password : cashier
